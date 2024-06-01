@@ -16,4 +16,5 @@ It adds the stock value to the previous data in memory.
 Enter month then enter stock value and then give clock signal.
 
 ## External hardware
-none
+
+dip switch, lcd display.
