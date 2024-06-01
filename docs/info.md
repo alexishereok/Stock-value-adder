@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It adds the stock value to the previous data in memory.
 
 ## How to test
 
-Explain how to use your project
+Enter month then enter stock value and then give clock signal.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Dip switch, lcd display.
